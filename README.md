@@ -3,4 +3,4 @@
 project base from  https://github.com/taniarascia/mvc
 
 
-the idea is to implemet this pattern in react.js 
+the idea is to implement this pattern in react.js 
